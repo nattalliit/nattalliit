@@ -146,3 +146,20 @@ Here are some ideas to get you started:
   </a> 
 
 </p>
+
+---
+
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="400" align="center" src="https://github-readme-stats.vercel.app/api?username=nattalliit&show_icons=true&theme=transparent&bg_color=00000000&card_width=320" />
+      </a>
+    </td>
+    <td width="60%" align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattalliit&layout=pie&theme=transparent&bg_color=00000000&langs_count=20&card_width=320" />
+      </a>
+    </td>
+  </tr>
+</table>
